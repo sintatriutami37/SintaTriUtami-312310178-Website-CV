@@ -19,12 +19,8 @@ Projek ini merupakan tugas dari mata kuliah **Pemrograman Web 1** yang bertujuan
 ---
 
 ## Tujuan
-Tujuan utama dari projek ini adalah untuk belajar bagaimana mengembangkan website sederhana menggunakan HTML, CSS, dan JavaScript, serta mengonfigurasi GitHub Pages sebagai tempat hosting website tersebut.
-
+Untuk Memenuhi Ujian Akhir Semester Pemograman Mobile 1
 ---
 
-## Instruksi Penggunaan
-
-1. Clone repository ini ke lokal Anda:
-   ```bash
-   git clone https://github.com/sintatriutami37/SintaTriUtami-312310178-Website-CV.git
+## Akses Website
+https://sintatriutami37.github.io/SintaTriUtami-312310178-Website-CV/
